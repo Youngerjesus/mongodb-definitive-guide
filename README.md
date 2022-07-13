@@ -12,3 +12,5 @@
 - [쿼리](documents/쿼리.md)
 
 - [인덱싱](documents/인덱싱.md)
+
+- [특수 인덱스와 컬렉션 유형](documents/특수_인덱스와_컬렉션_유형.md)
