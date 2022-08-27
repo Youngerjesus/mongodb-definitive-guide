@@ -28,3 +28,5 @@
 - [관리](documents/관리.md)
 
 - [샤딩 소개](documents/샤딩_소개.md)
+
+- [영속성](documents/영속성.md)
