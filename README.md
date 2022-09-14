@@ -31,6 +31,8 @@
 
 - [샤딩 구성](documents/샤딩_구성.md)
 
+- [샤드 키 선정](documents/샤드_키_선정.md)
+
 - [영속성](documents/영속성.md)
 
 - [모니터링](documents/모니터링.md)
