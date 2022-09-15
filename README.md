@@ -33,6 +33,8 @@
 
 - [샤드 키 선정](documents/샤드_키_선정.md)
 
+- [샤딩 관리](documents/샤딩_관리.md)
+
 - [영속성](documents/영속성.md)
 
 - [모니터링](documents/모니터링.md)
