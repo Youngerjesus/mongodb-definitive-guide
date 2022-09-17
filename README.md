@@ -35,6 +35,8 @@
 
 - [샤딩 관리](documents/샤딩_관리.md)
 
+- [애플리케이션 작업 확인](documents/애플리케이션_작업_확인.md)
+
 - [영속성](documents/영속성.md)
 
 - [모니터링](documents/모니터링.md)
